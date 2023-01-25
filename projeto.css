@@ -1,0 +1,26 @@
+
+#login{
+       size: 200px;
+       background-image: url(imagens/colorido.webp);
+       background-size: 350px;
+              margin: 10px;
+              background-repeat: no-repeat;
+  background-position: left bottom;
+    }
+
+
+
+.itens {
+      width: 100px;
+      height: 100px;
+      border: 10px solid black;
+      
+          
+       
+     }
+
+     #principal{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+     }
